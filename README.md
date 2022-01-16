@@ -14,9 +14,6 @@ Analysis was performed using Python 3.9.7 and Visual Studio Code 1.63. with the 
 #### The analysis of the election showed:
 -There was a total of 369,711 votes casted in the election.
 
-###### Figure 1. Election Results presented in terminal
-
-
 #### The candidates were:
    1. Charles Casper Stockham
    2. Diana DeGette 
@@ -25,6 +22,10 @@ Analysis was performed using Python 3.9.7 and Visual Studio Code 1.63. with the 
   - Charles Casper Stockham received 23.0% of the vote with 85,213 total number of votes.
   - Diana DeGette received 73.8% of the vote with 272,892 total number of votes.
   - Raymon Anthony Doane received 3.1% of the vote with 11,606 total number of votes.
+
+###### Figure 1. Election Results presented in terminal
+
+
 #### The winner of the election was:
   - Diana DeGette who received 73.8% of the vote with 272,892 number of votes.
 
