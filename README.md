@@ -29,7 +29,7 @@ Analysis was performed using Python 3.9.7 and Visual Studio Code 1.63. with the 
 #### The winner of the election was:
   - Diana DeGette who received 73.8% of the vote with 272,892 number of votes.
 ###### Figure 2. Winner of the election presented in terminal with code
-
+![Election_winner](Election_winner.png)
 
 ## Challenge Overview
 
