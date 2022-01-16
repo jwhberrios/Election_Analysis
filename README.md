@@ -29,9 +29,9 @@ Analysis was performed using Python 3.9.7 and Visual Studio Code 1.63. with the 
 ![Election_winner](Election_winner.png)
 ## Challenge Overview
 The Challenge portion scnenario involved the election commission requesting the following information listed below to complete the audit:
--The voter turnout for each county
--The percentage of votes from each county out of the total count
--The county with the highest turnout
+1. The voter turnout for each county
+2. The percentage of votes from each county out of the total count
+3. The county with the highest turnout
 ## Challenge Summary
 #### The voter turnout and percentage of votes from each county was:
 - Jefferson: 10.5% (38,855)
