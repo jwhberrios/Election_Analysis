@@ -46,4 +46,11 @@ The Challenge portion scnenario involved the election commission requesting the 
 #### The county with the highest turnout was:
 -Denver!
 ###### Figure 4. County with highest turnout presented in terminal with code
-![Largest_county](largest_county.png)
+![Largest_county](Largest_county.png)
+#### Election-Audit Summary: 
+The script used for this election audit can be modified in the following ways to apply towards any election for evaluation:
+1. Modifying the file_to_load = os.path.join(".csv") and incorporate any data that is saved in a (.csv) file name into the (".csv") bracket to obtain results of another election.
+2. The script can also be modified to other variables for analysis depending on the type of information that the data file contains, such as voter gender and voter age. The voter demographic information can further be analyzed into specific counties.
+
+
+
