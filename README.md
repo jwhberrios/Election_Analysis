@@ -37,8 +37,12 @@ The Challenge portion scnenario involved the election commission requesting the 
 -The percentage of votes from each county out of the total count
 -The county with the highest turnout
 ## Challenge Summary
-#### The voter turnout for each county was:
+#### The voter turnout and percentage of votes from each county was:
 - Jefferson: 10.5% (38,855)
 - Denver: 82.8% (306,055)
 - Arapahoe: 6.7% (24,801)
 ###### Figure 3. County voter turnout presented in terminal with code
+![County_results](County_results.png)
+#### The county with the highest turnout was:
+-Denver!
+###### Figure 4. County with highest turnout presented in terminal with code
