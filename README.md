@@ -46,3 +46,4 @@ The Challenge portion scnenario involved the election commission requesting the 
 #### The county with the highest turnout was:
 -Denver!
 ###### Figure 4. County with highest turnout presented in terminal with code
+![Largest_county](largest_county.png)
