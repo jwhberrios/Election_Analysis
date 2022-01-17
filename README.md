@@ -28,7 +28,7 @@ Analysis was performed using Python 3.9.7 and Visual Studio Code 1.63. with the 
 ###### Figure 2. Winner of the election presented in terminal with code
 ![Election_winner](Election_winner.png)
 ## Challenge Overview
-The Challenge portion scnenario involved the election commission requesting the following information listed below to complete the audit:
+The Challenge scenario involved the election commission requesting the following information listed below to complete the audit:
 1. The voter turnout for each county
 2. The percentage of votes from each county out of the total count
 3. The county with the highest turnout
